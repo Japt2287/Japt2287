@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Japtavya Singh</h1>
-<h3 align="center">On a journey to experience the innovation of technology</h3>
+<h3 align="center">On a journey to experience the innovation in technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=japt2287&label=Profile%20views&color=0e75b6&style=flat" alt="japt2287" /> </p>
 
